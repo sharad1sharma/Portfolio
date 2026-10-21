@@ -91,48 +91,6 @@ Developer Tools:  Git, GitHub, VS Code, Linux
 
 ---
 
-## 💻 Local Setup & Development
-
-To run this portfolio locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sharad1sharma/Portfolio.git
-   cd Portfolio
-   ```
-
-2. **Open the project:**
-   Simply double-click `index.html` or open it with your preferred browser:
-   ```bash
-   # Windows
-   start index.html
-
-   # macOS
-   open index.html
-
-   # Linux
-   xdg-open index.html
-   ```
-
-3. **Or launch using a local development server:**
-   ```bash
-   # Python 3
-   python -m http.server 3000
-   ```
-   Navigate to `http://localhost:3000` in your browser.
-
----
-
-## 📂 Project Structure
-
-```text
-Portfolio/
-├── index.html        # Single-page portfolio application with styles and scripts
-├── preview.png       # Portfolio hero screenshot asset
-└── README.md         # Comprehensive project documentation
-```
-
----
 
 ## 📬 Connect With Me
 
